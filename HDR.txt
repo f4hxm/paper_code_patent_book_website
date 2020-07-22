@@ -1,5 +1,7 @@
 Advanced High Dynamic Range Imaging：
-    https://github.com/banterle/HDR_Toolbox
-  
+    https://github.com/banterle/HDR_Toolbox/
+
 The-State-of-the-Art-in-HDR-Deghosting：
     https://github.com/f4hxm/The-State-of-the-Art-in-HDR-Deghosting
+
+
