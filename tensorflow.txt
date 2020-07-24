@@ -1,0 +1,2 @@
+eat_tensorflow2_in_30_days:
+https://github.com/f4hxm/eat_tensorflow2_in_30_days
